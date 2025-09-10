@@ -1,0 +1,125 @@
+Hello, good evening everybody.
+Harish Kumar Aggarwal . 0 minutes 30 seconds
+Can somebody respond to me? Are you able to hear me?
+Harish Kumar Aggarwal . 0 minutes 49 seconds
+Can you all hear me?
+Harish Kumar Aggarwal . 0 minutes 54 seconds
+Hello. All your mics are good. Yeah. OK, fine. Thank you. OK, I know it's Thursday evening, all working professional, so it's difficult. But thanks for joining. It keeps my motivation high and.
+Harish Kumar Aggarwal . 1 minute 11 seconds
+Also this.
+Harish Kumar Aggarwal . 1 minute 14 seconds
+OK, let me just.
+Harish Kumar Aggarwal . 1 minute 19 seconds
+OK, so here we are. Uh.
+Harish Kumar Aggarwal . 1 minute 33 seconds
+Uh.
+Harish Kumar Aggarwal . 1 minute 35 seconds
+To see my screen.
+Harish Kumar Aggarwal . 1 minute 44 seconds
+Able to see my screen? Can somebody respond?
+Harish Kumar Aggarwal . 1 hour 40 minutes 14 seconds
+In that order, fine, simple.
+Harish Kumar Aggarwal . 1 hour 40 minutes 19 seconds
+How about deleting 6 over here? There are two ways. I go to in order predecessor, make it four and delete this or the other way around is.
+Harish Kumar Aggarwal . 1 hour 40 minutes 31 seconds
+I go to in order successor, which in this case is 11. I delete 11, make it 11 and done.
+Harish Kumar Aggarwal . 1 hour 40 minutes 46 seconds
+If I delete this.
+Harish Kumar Aggarwal . 1 hour 40 minutes 50 seconds
+What is the height of the tree after deleting? Anybody?
+Harish Kumar Aggarwal . 1 hour 40 minutes 55 seconds
+It is two, one and two. It is not like this is not like 3.
+Harish Kumar Aggarwal . 1 hour 41 minutes 2 seconds
+I think that all that I have for today.
+Harish Kumar Aggarwal . 1 hour 41 minutes 7 seconds
+Clear guy binary search tree. The next class will be.
+Harish Kumar Aggarwal . 1 hour 41 minutes 15 seconds
+The next class will be AVL. What I will try to do is instead of doing AVL, I'll try to cover one hour of
+Harish Kumar Aggarwal . 1 hour 41 minutes 28 seconds
+Just revision right all of this.
+Harish Kumar Aggarwal . 1 hour 41 minutes 36 seconds
+Revision, right? And one hour I'll do revision. The next one hour I'll do AVL, which will not be a part of syllabus for midterm.
+Harish Kumar Aggarwal . 1 hour 41 minutes 49 seconds
+And today I will give if possible today or maybe tomorrow, but I'll give you enough time, two days of Saturday, Sunday and two days of Monday maybe or Tuesday or Friday. So basically.
+Harish Kumar Aggarwal . 1 hour 42 minutes 7 seconds
+Out of Friday, Monday, Tuesday, I'll give you 2 days to complete the quiz and Saturday, Sunday will be at your disposal. If I'm able to give the quiz today, I'll give it. But I'm telling you quizzes really, really will be helpful to you guys.
+Harish Kumar Aggarwal . 1 hour 42 minutes 22 seconds
+It will clear the concepts for you if you attempt the quiz, right? So that would be it.
+Harish Kumar Aggarwal . 1 hour 42 minutes 35 seconds
+Mm.
+Harish Kumar Aggarwal . 1 hour 42 minutes 48 seconds
+Any questions guys?
+Harish Kumar Aggarwal . 1 hour 42 minutes 52 seconds
+Binary search tree, insertion, deletion. So basically if I have to see the contents.
+Harish Kumar Aggarwal . 1 hour 43 minutes 4 seconds
+Of this class BFT.
+Harish Kumar Aggarwal . 1 hour 43 minutes 8 seconds
+Properties.
+Harish Kumar Aggarwal . 1 hour 43 minutes 11 seconds
+right insertion deletion
+Harish Kumar Aggarwal . 1 hour 43 minutes 18 seconds
+Search in order traversal.
+Harish Kumar Aggarwal . 1 hour 43 minutes 25 seconds
+In order.
+Harish Kumar Aggarwal . 1 hour 43 minutes 28 seconds
+Reducifer.
+Harish Kumar Aggarwal . 1 hour 43 minutes 33 seconds
+In order.
+Harish Kumar Aggarwal . 1 hour 43 minutes 36 seconds
+Successor.
+Harish Kumar Aggarwal . 1 hour 43 minutes 40 seconds
+And for all these.
+Harish Kumar Aggarwal . 1 hour 43 minutes 44 seconds
+Complexity.
+Harish Kumar Aggarwal . 1 hour 43 minutes 50 seconds
+Best case, worst case.
+Harish Kumar Aggarwal . 1 hour 43 minutes 54 seconds
+That is all what we studied today.
+Harish Kumar Aggarwal . 1 hour 44 minutes 1 second
+Clear guys.
+Harish Kumar Aggarwal . 1 hour 44 minutes 3 seconds
+Any questions?
+Harish Kumar Aggarwal . 1 hour 44 minutes 7 seconds
+Can we play any method either in order? Yeah, unless I specify.
+Harish Kumar Aggarwal . 1 hour 44 minutes 15 seconds
+Unless I specify your you have a choice of using either successor or predecessor. But if I specify in the question that you have to go a particular method, then you have to go with that particular method which is either in order successor or predecessor.
+Harish Kumar Aggarwal . 1 hour 44 minutes 37 seconds
+So let me ask you one question. People who have not studied BST earlier, are we clear what we are doing and most importantly, why we are doing all this?
+Harish Kumar Aggarwal . 1 hour 44 minutes 52 seconds
+So let me ask you one thing, why we are studying data structure? Just tell me that one line.
+Harish Kumar Aggarwal . 1 hour 45 minutes 2 seconds
+Mostly the data structure that we are studying is.
+Harish Kumar Aggarwal . 1 hour 45 minutes 7 seconds
+Perch.
+Harish Kumar Aggarwal . 1 hour 45 minutes 10 seconds
+Speed up the search.
+Harish Kumar Aggarwal . 1 hour 45 minutes 14 seconds
+So today we studied about BST. Actually deletion, insertion, worst case is, worst case is order of N which is very high. Let's say there are 50,000 elements, then I have to search for order of N is very very high.
+Harish Kumar Aggarwal . 1 hour 45 minutes 31 seconds
+I want to reduce it to best case which is order of log N and this is where I'm going to study AVL or balanced BST. Next class balanced BST is what I'm going to study, what we are going to study and.
+Harish Kumar Aggarwal . 1 hour 45 minutes 47 seconds
+That will basically show how beneficial the BST can be.
+Harish Kumar Aggarwal . 1 hour 45 minutes 54 seconds
+OK.
+Harish Kumar Aggarwal . 1 hour 45 minutes 59 seconds
+Any other questions guys?
+Harish Kumar Aggarwal . 1 hour 46 minutes 6 seconds
+So the only question that I have I am asking is are we clear? How many of you are looking at BST for the first time?
+Harish Kumar Aggarwal . 1 hour 46 minutes 18 seconds
+In anybody who is for first time we are looking and you were able to understand.
+Harish Kumar Aggarwal . 1 hour 46 minutes 28 seconds
+Anybody.
+Harish Kumar Aggarwal . 1 hour 46 minutes 31 seconds
+No answers. OK, in that case that is all what I have for today. Next class one hour will be.
+Harish Kumar Aggarwal . 1 hour 46 minutes 44 seconds
+Revision one hour AVL. Thanks for joining. Will we have a code based question? Pseudo code.
+Harish Kumar Aggarwal . 1 hour 46 minutes 55 seconds
+I will not provide previous your question but sample question I will bring up in the next class. Fine. I'll bring up sample question in the next class. We'll be able to understand but pseudo code you will have to write for any questions but for.
+Harish Kumar Aggarwal . 1 hour 47 minutes 11 seconds
+No, you are not expected any Java, C, C++, no pseudo code. If you are, if you understand the pseudo code that definitely will be required. There will be question on the pseudo code. There will be question on the algorithm which you can write in the pseudo code.
+Harish Kumar Aggarwal . 1 hour 47 minutes 33 seconds
+Sample questions I will provide next week.
+Harish Kumar Aggarwal . 1 hour 47 minutes 36 seconds
+Sunday, not next week, Saturday. That is going to be your last class. Fine. OK. Thank you guys. Thanks for joining so late. I know it is tough, but it is definitely going to be helpful to you.
+Harish Kumar Aggarwal . 1 hour 47 minutes 53 seconds
+Bye.
