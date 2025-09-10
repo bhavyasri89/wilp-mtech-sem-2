@@ -1,0 +1,135 @@
+Hello.
+Harish Kumar Aggarwal . 1 minute 31 seconds
+Good afternoon.
+Harish Kumar Aggarwal . 1 minute 38 seconds
+Hello.
+Harish Kumar Aggarwal . 1 minute 40 seconds
+Can somebody respond?
+Harish Kumar Aggarwal . 1 minute 43 seconds
+Can you guys hear me?
+MP
+
+MAURYA PREETI PRABHWANT
+1 minute 48 seconds1:48
+MAURYA PREETI PRABHWANT 1 minute 48 seconds
+Good afternoon, Sir.
+HA
+
+Harish Kumar Aggarwal .
+1 minute 51 seconds1:51
+Harish Kumar Aggarwal . 1 minute 51 seconds
+OK, good. I hope you can see my screen.
+Harish Kumar Aggarwal . 1 minute 59 seconds
+OK.
+Harish Kumar Aggarwal . 2 minutes 5 seconds
+Can you guys see my screen? That's.
+Harish Kumar Aggarwal . 2 minutes 10 seconds
+Oh, OK.
+Harish Kumar Aggarwal . 1 hour 41 minutes 51 seconds
+So this is the array that you're having.
+Harish Kumar Aggarwal . 1 hour 41 minutes 55 seconds
+No.
+Harish Kumar Aggarwal . 1 hour 41 minutes 58 seconds
+Whatever I'm showing over here is for the convenience so that you understand. Otherwise you start with this array and assume that this is a heap. This representation, we don't have to do anything. All the operations left, right and all we already said that.
+Harish Kumar Aggarwal . 1 hour 42 minutes 17 seconds
+Because this is a heap. Because it's a complete binary tree, you can think of a heap converted into a heap. In place operations can be done. No memory, no, no tree, nothing.
+Harish Kumar Aggarwal . 1 hour 42 minutes 33 seconds
+You can think that this is a complete binary tree.
+Harish Kumar Aggarwal . 1 hour 42 minutes 37 seconds
+All operations can be done on this array only. So from this state this array goes over here.
+Harish Kumar Aggarwal . 1 hour 42 minutes 44 seconds
+The all what I'm showing over here is just for your explanation and understanding. All operations can be done on an array.
+Harish Kumar Aggarwal . 1 hour 42 minutes 53 seconds
+Fine. So finally you get an array which is sorted.
+Harish Kumar Aggarwal . 1 hour 43 minutes 1 second
+To start with, you started with an array which was not sorted and.
+Harish Kumar Aggarwal . 1 hour 43 minutes 8 seconds
+You basically did operations as you do in heap and you finally get an array which is sorted fine.
+Harish Kumar Aggarwal . 1 hour 43 minutes 16 seconds
+How much time will it take?
+Harish Kumar Aggarwal . 1 hour 43 minutes 22 seconds
+For initialization.
+Harish Kumar Aggarwal . 1 hour 43 minutes 28 seconds
+Basically heapify order of N We already talked about it.
+Harish Kumar Aggarwal . 1 hour 43 minutes 33 seconds
+First you do order of an initialization.
+Harish Kumar Aggarwal . 1 hour 43 minutes 37 seconds
+Then delete an element which you're going to take log N.
+Harish Kumar Aggarwal . 1 hour 43 minutes 43 seconds
+If you reduce the N by N minus one, play with the popped element to the last division. Repeat step 2.
+Harish Kumar Aggarwal . 1 hour 43 minutes 53 seconds
+Right, continue. Now step two is repeated end times.
+Harish Kumar Aggarwal . 1 hour 44 minutes
+Each time popping an element takes log N, so basically complexity and log N.
+Harish Kumar Aggarwal . 1 hour 44 minutes 10 seconds
+Height of the heap with an element we talked about in the last class as well. So heap sort will take N log N complexity.
+Harish Kumar Aggarwal . 1 hour 44 minutes 21 seconds
+Clear guys.
+Harish Kumar Aggarwal . 1 hour 44 minutes 26 seconds
+Any questions about heap?
+Harish Kumar Aggarwal . 1 hour 44 minutes 31 seconds
+So what we did today is.
+Harish Kumar Aggarwal . 1 hour 44 minutes 35 seconds
+We got a lot of ground.
+Harish Kumar Aggarwal . 1 hour 44 minutes 45 seconds
+Bubble sort, insertion sort, selection sort, bucket sort, quick sort, their complexity, average case, best case and worst case. Then we talked about heap. Within heap I talked about whatever heap. What?
+Harish Kumar Aggarwal . 1 hour 45 minutes 1 second
+Inversion.
+Harish Kumar Aggarwal . 1 hour 45 minutes 4 seconds
+Deletion.
+Harish Kumar Aggarwal . 1 hour 45 minutes 6 seconds
+EP5.
+Harish Kumar Aggarwal . 1 hour 45 minutes 9 seconds
+Heap if I basically you have a complete binary tree and you convert it into a heap and then heap for.
+Harish Kumar Aggarwal . 1 hour 45 minutes 18 seconds
+All this we did.
+Harish Kumar Aggarwal . 1 hour 45 minutes 22 seconds
+Clear guys.
+Harish Kumar Aggarwal . 1 hour 45 minutes 27 seconds
+Any questions?
+Harish Kumar Aggarwal . 1 hour 45 minutes 38 seconds
+Let me cover a few more slide.
+Harish Kumar Aggarwal . 1 hour 45 minutes 52 seconds
+I will cover it in the next class maybe.
+Harish Kumar Aggarwal . 1 hour 45 minutes 56 seconds
+Fine, I've covered all the things today.
+Harish Kumar Aggarwal . 1 hour 46 minutes 7 seconds
+OK, so one more thing I want to talk about is just give me a minute.
+Harish Kumar Aggarwal . 1 hour 46 minutes 31 seconds
+So we are lagging behind by one class, right?
+Harish Kumar Aggarwal . 1 hour 46 minutes 36 seconds
+And uh.
+Harish Kumar Aggarwal . 1 hour 46 minutes 39 seconds
+Also, I may not be able to take or I will not be able to take a class on 9th right so.
+Harish Kumar Aggarwal . 1 hour 46 minutes 47 seconds
+On 16th which was Janmashtmi, the class is not there so I will take a class. That time I'll take a buffer class or if I don't take a class on Janmashtmi.
+Harish Kumar Aggarwal . 1 hour 47 minutes 5 seconds
+I'm going to move this class as well.
+Harish Kumar Aggarwal . 1 hour 47 minutes 9 seconds
+I'm already lagging behind a class. Can I take a class sometime on Friday evening? Yes.
+Harish Kumar Aggarwal . 1 hour 47 minutes 22 seconds
+Buffer class I'm going to definitely take.
+Harish Kumar Aggarwal . 1 hour 47 minutes 29 seconds
+And 23rd will be L7.
+Harish Kumar Aggarwal . 1 hour 47 minutes 34 seconds
+Take a I'll, I'll see what I can do. Either I take a class on.
+Harish Kumar Aggarwal . 1 hour 47 minutes 42 seconds
+Janmashtmi, which is 16th of August, correct? And if I don't take a class on Janmashtmi, I'll have to take a class on Friday.
+Harish Kumar Aggarwal . 1 hour 47 minutes 54 seconds
+It is possible that 16th also I'll I may not be able to do so next week I'll not be able to take a class.
+Harish Kumar Aggarwal . 1 hour 48 minutes 2 seconds
+OK.
+Harish Kumar Aggarwal . 1 hour 48 minutes 4 seconds
+Hello.
+Harish Kumar Aggarwal . 1 hour 48 minutes 8 seconds
+Guys, I'll inform this on the e-learn portal. Uh, I'll send it out a notification. I'll work it out with the admin department and then I'll see what I will do. Fine. And also it's time for quiz. I'll.
+Harish Kumar Aggarwal . 1 hour 48 minutes 27 seconds
+Launch a quiz maybe this week or next week.
+Harish Kumar Aggarwal . 1 hour 48 minutes 33 seconds
+*****.
+Harish Kumar Aggarwal . 1 hour 48 minutes 35 seconds
+That all I have for today. I know it weekend and.
+Harish Kumar Aggarwal . 1 hour 48 minutes 43 seconds
+You people are all working professionals, so it's really hectic for you guys, but it's definitely going to help you guys in your career. Thank you very much for joining. Thanks. If anybody have any question, please do ask or I'll close it.
+Harish Kumar Aggarwal . 1 hour 49 minutes 3 seconds
+Thank you.
