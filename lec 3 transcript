@@ -1,0 +1,109 @@
+Hello.
+Harish Kumar Aggarwal . 0 minutes 20 seconds
+Can you guys hear me?
+Harish Kumar Aggarwal . 0 minutes 26 seconds
+Anybody can respond.
+Harish Kumar Aggarwal . 0 minutes 33 seconds
+Hello.
+Harish Kumar Aggarwal . 0 minutes 34 seconds
+You're all unmuted. OK, fine.
+Harish Kumar Aggarwal . 0 minutes 40 seconds
+And one more thing. Can you guys see my screen?
+MP
+
+MAURYA PREETI PRABHWANT
+0 minutes 56 seconds0:56
+MAURYA PREETI PRABHWANT 0 minutes 56 seconds
+Not yet, Sir.
+HA
+
+Harish Kumar Aggarwal .
+0 minutes 58 seconds0:58
+Harish Kumar Aggarwal . 0 minutes 58 seconds
+Oh, OK.
+Harish Kumar Aggarwal . 1 minute 5 seconds
+OK, can you guys see my screen now?
+MP
+
+MAURYA PREETI PRABHWANT
+1 minute 11 seconds1:11
+MAURYA PREETI PRABHWANT 1 minute 11 seconds
+Yes, Sir.
+Harish Kumar Aggarwal . 1 hour 38 minutes 15 seconds
+Let us say.
+Harish Kumar Aggarwal . 1 hour 38 minutes 17 seconds
+Then what I will do is I'm calling this with P&R. If P is less than R, I'll go into it. If P is not less than R, I'll just skip.
+Harish Kumar Aggarwal . 1 hour 38 minutes 28 seconds
+I'll using P&R I'd find the midpoint. So basically divide this whole array into two equal halves because I'm doing equal and the first one I again send it to merge short, second one again I send it to merge short assuming that.
+Harish Kumar Aggarwal . 1 hour 38 minutes 43 seconds
+Merge sort of the first half will return me good, second will return me good. I merge these two, but when I send this merge sort again back to it will start dividing it like this. You have a larger array.
+Harish Kumar Aggarwal . 1 hour 38 minutes 58 seconds
+I divided in two, then I divide it into two, then I divide it into two, divide it into two. When I have only two elements, one element and one element, I divide it into two, send it back.
+Harish Kumar Aggarwal . 1 hour 39 minutes 14 seconds
+And these are single element. Nothing is done for single element. They come back and they get merged using merge. So now I have two elements which are sorted. Similarly the other half two elements which are sorted, I merge.
+Harish Kumar Aggarwal . 1 hour 39 minutes 32 seconds
+And these are four elements which are sorted. So basically first I divide, divide, divide, then I merge, merge, merge.
+Harish Kumar Aggarwal . 1 hour 39 minutes 40 seconds
+So I have this thing now in this.
+Harish Kumar Aggarwal . 1 hour 39 minutes 46 seconds
+If I need to what is the effort to sort an element? It is this much and it is equivalent to saying that I'm sorting the half the element and by two elements and effort it takes to sort the half element, effort it takes to another half and then effort to take much.
+Harish Kumar Aggarwal . 1 hour 40 minutes 5 seconds
+So this is equal to two N by two, two TN by two plus Theta N and actually TN by two is equal to two TN by 4 plus CN by two and TN by 4 is equal to two TN by 8 plus CN by four. I keep replacing that.
+Harish Kumar Aggarwal . 1 hour 40 minutes 20 seconds
+TN is equal to two TN by two. This part I replace with this two TN by four below this and I keep doing that. Finally I get this. Now in the end this part the size of the element N by two it is like one single element.
+Harish Kumar Aggarwal . 1 hour 40 minutes 35 seconds
+Which yields me this thing, which yields me N by N equal to 2 or K equal to log N. So this becomes 2 to the power KT1 plus KCN and K is equal to log N, so this is equal to log NC remains as it is.
+Harish Kumar Aggarwal . 1 hour 40 minutes 54 seconds
+T1 is equal to 1 and 2 to the power K basically is 2 to the power K is equal to N Since N is less than N log NI ignore this part. So this N is less than N log NI ignore this part I'm left with.
+Harish Kumar Aggarwal . 1 hour 41 minutes 11 seconds
+Theta N log N So another example which I gave of rather I'll show you this example, yeah.
+Harish Kumar Aggarwal . 1 hour 41 minutes 24 seconds
+And this.
+Harish Kumar Aggarwal . 1 hour 41 minutes 26 seconds
+I have one bigger problem divided into two smaller problem. This is 1 by 35, which is 2 by 351 by 352 by 35 and I keep going, going, going down.
+Harish Kumar Aggarwal . 1 hour 41 minutes 40 seconds
+Some of this is CN, some of this is CN, some of this is CN. The only thing I need to what is the height of this height will be equal to. If I use this formula 2 by 3K power NK is equal to 1. This is the.
+Harish Kumar Aggarwal . 1 hour 41 minutes 56 seconds
+Height gave the height, gave the depth.
+Harish Kumar Aggarwal . 1 hour 42 minutes
+And I basically get took a node N log N Why N log N because.
+Harish Kumar Aggarwal . 1 hour 42 minutes 11 seconds
+Log base 2N is greater than log 3 by 2 N, so I can change this log 3 by 2 N if at all it was 1 by 2 N.
+Harish Kumar Aggarwal . 1 hour 42 minutes 27 seconds
+Maybe I won't do that.
+Harish Kumar Aggarwal . 1 hour 42 minutes 31 seconds
+If this is higher.
+Harish Kumar Aggarwal . 1 hour 42 minutes 35 seconds
+If this is greater than log NI will not convert into log N log 3 by 2 N is equal is less than log N so I basically convert it into this thing.
+Harish Kumar Aggarwal . 1 hour 42 minutes 48 seconds
+OK, guys.
+Harish Kumar Aggarwal . 1 hour 42 minutes 51 seconds
+So 344. If you have any questions, please do let me know.
+Harish Kumar Aggarwal . 1 hour 42 minutes 58 seconds
+Or I'll close the meeting today at 3:45. Any questions?
+Harish Kumar Aggarwal . 1 hour 43 minutes 10 seconds
+Your quiz. I'll launch a quiz after Lecture 5, right? There is the third lecture today. I'll launch the quiz after Lecture 5. Also, one more thing I have.
+Harish Kumar Aggarwal . 1 hour 43 minutes 23 seconds
+Just a minute.
+Harish Kumar Aggarwal . 1 hour 43 minutes 42 seconds
+Your handout is uploaded over here.
+Harish Kumar Aggarwal . 1 hour 43 minutes 47 seconds
+OK, it is uploaded. You can download and.
+Harish Kumar Aggarwal . 1 hour 43 minutes 53 seconds
+Give your handout.
+Harish Kumar Aggarwal . 1 hour 43 minutes 57 seconds
+We have covered analysis data type stack cube.
+Harish Kumar Aggarwal . 1 hour 44 minutes 8 seconds
+No.
+Harish Kumar Aggarwal . 1 hour 44 minutes 11 seconds
+First two and three we have covered it fine. Just refer to the handout if need be.
+Harish Kumar Aggarwal . 1 hour 44 minutes 19 seconds
+OK. That's all that I have for today. Thank you very much for joining. If you have any questions one last time.
+Harish Kumar Aggarwal . 1 hour 44 minutes 27 seconds
+Anybody.
+Harish Kumar Aggarwal . 1 hour 44 minutes 30 seconds
+Or else we are done for the day.
+Harish Kumar Aggarwal . 1 hour 44 minutes 34 seconds
+Thank you for joining. I know it is tough on the weekends, but.
+Harish Kumar Aggarwal . 1 hour 44 minutes 43 seconds
+It will be really good for you.
