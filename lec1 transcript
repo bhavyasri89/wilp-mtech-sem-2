@@ -1,0 +1,123 @@
+OK, thanks. But people, you should remind me about the classes that I have to record the classes. So normally so nothing, nothing was lost like in last eight minutes, so that's good.
+Harish Kumar Aggarwal . 0 minutes 20 seconds
+That's good. So I've taken this course like quite a lot of times. So most of the things are easy as I would say, and interrupt me as I was saying that if at all you find something.
+Harish Kumar Aggarwal . 0 minutes 38 seconds
+Which is very basic. Sometimes I I'll assume that things are very basic so you people may be knowing it or there's nothing to be explained about. So stop me any point of time, right? We have got enough time to cover the entire course.
+Harish Kumar Aggarwal . 0 minutes 54 seconds
+16 lectures. We've got enough time, so don't worry on the time front, right? Rarely there will be a lecture wherein.
+Harish Kumar Aggarwal . 1 minute 4 seconds
+I'll run out of the time, but if that is the case, we'll cover it in the next class. So again, please do speak up. I want to hear your voices.
+Harish Kumar Aggarwal . 1 minute 17 seconds
+First and foremost thing, what is the expectation out of this course from your side? From your side, anybody can speak up.
+Harish Kumar Aggarwal . 1 minute 26 seconds
+What do you want means? What do you think you will be learning in this course? Because sometimes the expectations were very different.
+Harish Kumar Aggarwal . 1 minute 36 seconds
+Anybody? What do you what do you think you're going to learn in this course?
+Harish Kumar Aggarwal . 1 minute 46 seconds
+I need interaction.
+Harish Kumar Aggarwal . 2 minutes 1 second
+Hello.
+Harish Kumar Aggarwal . 1 hour 41 minutes 17 seconds
+DN is order of FM. Then when you multiply this by a, it is still remains order of FM. So you multiply with a constant does not matter. The complexity does not change.
+Harish Kumar Aggarwal . 1 hour 41 minutes 32 seconds
+The only point that I can OK, I'll explain one more. If DN is order of FN and EN is order of GN, then DN plus GN is order of FN plus GN.
+Harish Kumar Aggarwal . 1 hour 41 minutes 47 seconds
+For better like this.
+Harish Kumar Aggarwal . 1 hour 41 minutes 54 seconds
+If DN is order of FN and EN is order of GN, then DN EN dot is order of this thing.
+Harish Kumar Aggarwal . 1 hour 42 minutes 4 seconds
+No.
+Harish Kumar Aggarwal . 1 hour 42 minutes 5 seconds
+The only thing let me explain is.
+Harish Kumar Aggarwal . 1 hour 42 minutes 20 seconds
+Let me use this to exlain.
+Harish Kumar Aggarwal . 1 hour 42 minutes 23 seconds
+So let's say some algorithm have the complexity of order of N.
+Harish Kumar Aggarwal . 1 hour 42 minutes 31 seconds
+And my input size is 1025.
+Harish Kumar Aggarwal . 1 hour 42 minutes 39 seconds
+Right.
+Harish Kumar Aggarwal . 1 hour 42 minutes 45 seconds
+So what I'm saying is that the effort in this will be 1024 less than 10424 because this is Max bound.
+Harish Kumar Aggarwal . 1 hour 42 minutes 59 seconds
+Now if the effort is going two in two, let's say it double somehow, so effort is going 2024.
+Harish Kumar Aggarwal . 1 hour 43 minutes 13 seconds
+Now actually this is still order of N reason being.
+Harish Kumar Aggarwal . 1 hour 43 minutes 19 seconds
+The complexity are generally in the form of N log and N square. Order of N square is too high. What I'm saying is it does not matter if you multiply 1024 with five, which is.
+Harish Kumar Aggarwal . 1 hour 43 minutes 34 seconds
+Equal to 125120, but if you compare it with N square.
+Harish Kumar Aggarwal . 1 hour 43 minutes 42 seconds
+Which is like 10,05120 is nothing. What I'm saying is if you multiply by a constant into two into three, even that does not matter or you half it, it is still order of north. It is not changing to order of north square because N square is too high.
+Harish Kumar Aggarwal . 1 hour 44 minutes 2 seconds
+What I mean to say if you multiply by constant or divide by constant, it does not matter. What matters is these NN square N cube. Look at from N cube to N cube, N square to N cube. Look at the value change.
+Harish Kumar Aggarwal . 1 hour 44 minutes 21 seconds
+Even if you multiply it by five, it does not matter.
+Harish Kumar Aggarwal . 1 hour 44 minutes 25 seconds
+It does not become an you ignore. Basically your order is this.
+Harish Kumar Aggarwal . 1 hour 44 minutes 33 seconds
+Ranges this.
+Harish Kumar Aggarwal . 1 hour 44 minutes 36 seconds
+Killer guys.
+Harish Kumar Aggarwal . 1 hour 44 minutes 38 seconds
+So that's all that I have for today.
+Harish Kumar Aggarwal . 1 hour 44 minutes 43 seconds
+You can go through this. Any questions guys? So today we basically looked at pseudo code algorithm analysis, some glimpse of or not some glimpse of clearly completing the topic of.
+Harish Kumar Aggarwal . 1 hour 45 minutes 2 seconds
+Complexity of an algorithm with an example. So I explained you the complexity using the example of this. This is order of N, this is Theta of N and this is order of N square.
+Harish Kumar Aggarwal . 1 hour 45 minutes 17 seconds
+And I explained you how.
+Harish Kumar Aggarwal . 1 hour 45 minutes 22 seconds
+Clear guys.
+Harish Kumar Aggarwal . 1 hour 45 minutes 32 seconds
+So let me ask you this thing, if at all all of you are from CS background, all these things were clear to you or not earlier?
+Harish Kumar Aggarwal . 1 hour 45 minutes 44 seconds
+Because the entire course is based on algorithms and their complexity. Why we are doing this? Because we are speeding the search and as you can see, look at this.
+Harish Kumar Aggarwal . 1 hour 46 minutes
+So I can, I can have one more thing over here.
+Harish Kumar Aggarwal . 1 hour 46 minutes 5 seconds
+Search in fored lift.
+Harish Kumar Aggarwal . 1 hour 46 minutes 10 seconds
+What will be the complexity search in sorted list? Anybody?
+Harish Kumar Aggarwal . 1 hour 46 minutes 19 seconds
+Order of log base 2 N which is very insignificant number.
+Harish Kumar Aggarwal . 1 hour 46 minutes 32 seconds
+Right, so the entire course is all about search and.
+Harish Kumar Aggarwal . 1 hour 46 minutes 39 seconds
+Making search fast.
+Harish Kumar Aggarwal . 1 hour 46 minutes 41 seconds
+Writing algorithms that will help analyzing the algorithms and making data structures.
+Harish Kumar Aggarwal . 1 hour 46 minutes 50 seconds
+To store the data so that if I write an algorithm on top of that, the search is first. That's the key goal.
+Harish Kumar Aggarwal . 1 hour 46 minutes 59 seconds
+Now if you don't attend the class, it will be difficult for you people.
+Harish Kumar Aggarwal . 1 hour 47 minutes 6 seconds
+And the classes ask questions.
+Harish Kumar Aggarwal . 1 hour 47 minutes 11 seconds
+Right, then only things will work out.
+Harish Kumar Aggarwal . 1 hour 47 minutes 18 seconds
+Questions.
+Harish Kumar Aggarwal . 1 hour 47 minutes 20 seconds
+Are we clear?
+Harish Kumar Aggarwal . 1 hour 47 minutes 33 seconds
+OK, I got one. Yes, OK.
+Harish Kumar Aggarwal . 1 hour 47 minutes 39 seconds
+So.
+Harish Kumar Aggarwal . 1 hour 47 minutes 41 seconds
+That's all I that I have for today.
+Harish Kumar Aggarwal . 1 hour 47 minutes 46 seconds
+I know weekends you have classes and you all are working professionals. It's tough, but this is what you people ask for and this is definitely going to help you in your careers.
+Harish Kumar Aggarwal . 1 hour 48 minutes 3 seconds
+So please do attend classes. If you don't attend classes, you will lose the connect and once you lose the connect you will pile up the entire thing and the only way out for you will be before mid sem study all the lectures and that becomes a bit difficult.
+Harish Kumar Aggarwal . 1 hour 48 minutes 22 seconds
+Right, so attend the classes, try to understand, revise if possible, ask questions in the class. We have got enough time to answer all the questions and if you ask the questions.
+Harish Kumar Aggarwal . 1 hour 48 minutes 35 seconds
+You'll have a better understanding, OK.
+Harish Kumar Aggarwal . 1 hour 48 minutes 41 seconds
+Unless you have any questions. Thank you all.
+Harish Kumar Aggarwal . 1 hour 48 minutes 45 seconds
+Have a great weekend.
+Harish Kumar Aggarwal . 1 hour 48 minutes 48 seconds
+Bye.
+
+Harish Kumar Aggarwal . stopped transcription
