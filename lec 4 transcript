@@ -1,0 +1,125 @@
+Oh.
+Harish Kumar Aggarwal . 0 minutes 17 seconds
+Good afternoon.
+Harish Kumar Aggarwal . 0 minutes 20 seconds
+Can you hear me?
+BS
+
+BALINENI BHAVYA SRI
+0 minutes 23 seconds0:23
+BALINENI BHAVYA SRI 0 minutes 23 seconds
+Good afternoon, Sir. Yes, we can hear you.
+HA
+
+Harish Kumar Aggarwal .
+0 minutes 25 seconds0:25
+Harish Kumar Aggarwal . 0 minutes 25 seconds
+Oh, OK, this is DSID class, na.
+BS
+
+BALINENI BHAVYA SRI
+0 minutes 29 seconds0:29
+BALINENI BHAVYA SRI 0 minutes 29 seconds
+Yes Sir.
+HA
+
+Harish Kumar Aggarwal .
+0 minutes 30 seconds0:30
+Harish Kumar Aggarwal . 0 minutes 30 seconds
+Good. Thank you. Let me just open up my camera for some time.
+Harish Kumar Aggarwal . 0 minutes 39 seconds
+Any questions till now? So we have had like 3 LECTURES and I think we are lagging behind by one lecture, but that's fine, we'll cover it. But any questions so far?
+Harish Kumar Aggarwal . 0 minutes 57 seconds
+Anybody, are you able to understand what we are trying to do or what is this course is all about?
+Harish Kumar Aggarwal . 1 hour 39 minutes 8 seconds
+F alien. Only reason I said wrong maybe is because I used I and this was J. You used J and I thought I so I when I checked it was not IJ. So I maybe this was the reason I said wrong. Otherwise yours is all perfect.
+Harish Kumar Aggarwal . 1 hour 39 minutes 27 seconds
+Fine. OK now.
+KA
+KARPAGAVADIVU A
+1 hour 39 minutes 28 seconds1:39:28
+KARPAGAVADIVU A 1 hour 39 minutes 28 seconds
+OK, Sir. Thank you, Sir.
+HA
+Harish Kumar Aggarwal .
+1 hour 39 minutes 30 seconds1:39:30
+Harish Kumar Aggarwal . 1 hour 39 minutes 30 seconds
+Yeah, no issues. So look at this type of question you are going to get. You are given in order, pre-order, and you have to conclude the other one. So apart from that, I think it was a very simple lecture, just the terminology.
+Harish Kumar Aggarwal . 1 hour 39 minutes 48 seconds
+Only thing you need to understand is that first of all.
+Harish Kumar Aggarwal . 1 hour 39 minutes 53 seconds
+Why we are doing all this? So I'll I'll tell you why we are doing all this.
+Harish Kumar Aggarwal . 1 hour 40 minutes 7 seconds
+OK.
+Harish Kumar Aggarwal . 1 hour 40 minutes 13 seconds
+Ultimately, I'll just use this page.
+Harish Kumar Aggarwal . 1 hour 40 minutes 23 seconds
+So what we have done today is one is free terminology.
+Harish Kumar Aggarwal . 1 hour 40 minutes 33 seconds
+Terminology, right? Then we looked at from tree. We said what is a binary tree?
+Harish Kumar Aggarwal . 1 hour 40 minutes 43 seconds
+Then we said that from binary tree we said that that type of binary tree we have a perfect binary tree, complete binary tree and proper binary tree, proper strict, full.
+Harish Kumar Aggarwal . 1 hour 40 minutes 59 seconds
+And each have each of them is a tree, binary tree and have property right complete.
+Harish Kumar Aggarwal . 1 hour 41 minutes 9 seconds
+and perfect. Now important thing about complete it can have a array representation. Then we studied traversal.
+Harish Kumar Aggarwal . 1 hour 41 minutes 21 seconds
+In order.
+Harish Kumar Aggarwal . 1 hour 41 minutes 24 seconds
+Reorder and post order now.
+Harish Kumar Aggarwal . 1 hour 41 minutes 29 seconds
+The key thing is which is going to come in the next class is.
+Harish Kumar Aggarwal . 1 hour 41 minutes 34 seconds
+From binary tree I will have binary search tree wherein if I arrange the elements in such a way, not such a way, binary tree will arrange the elements in such a way that in order traversal will give me the.
+Harish Kumar Aggarwal . 1 hour 41 minutes 53 seconds
+Sorted array and searching in this binary tree is order of log N order of log N That is the key thing. Why we want to go into that?
+Harish Kumar Aggarwal . 1 hour 42 minutes 7 seconds
+That's the thing, right? So next class we will look at the binary tree and then we'll see. But if you understand the terminology today, whatever we did, we are good enough, right? That's all that I have for today. Any questions?
+Harish Kumar Aggarwal . 1 hour 42 minutes 23 seconds
+Uh, I can. I can show you one more thing, though it will not there. So basically, um.
+Harish Kumar Aggarwal . 1 hour 42 minutes 32 seconds
+I I may have picked up this code from somewhere right on the Internet, so I I don't verify that this code is correct or not. But in general so look at this. So you have a node. Every node has like a data.
+Harish Kumar Aggarwal . 1 hour 42 minutes 50 seconds
+Right. So you allocate the node or the basically the data size and corresponding to that size. So once you allocate this you get a pointer to this. So this is a temp of pointer.
+Harish Kumar Aggarwal . 1 hour 43 minutes 5 seconds
+Temp pointer pointing to the allocated size and temp left and right. You basically mark it as null, both null and value as when you create a node, whatever the value you want to, let's say 67. So you create a node.
+Harish Kumar Aggarwal . 1 hour 43 minutes 24 seconds
+You create a node with value value over here. For example the then you invert right node.
+Harish Kumar Aggarwal . 1 hour 43 minutes 35 seconds
+Int data right now.
+Harish Kumar Aggarwal . 1 hour 43 minutes 40 seconds
+This is a root node. If tree is empty, new node becomes a root node. So basically only if at all you want to create a root node, right? Or.
+Harish Kumar Aggarwal . 1 hour 43 minutes 58 seconds
+You basically have node star Q equal to this thing. I have not gone through this code earlier.
+Harish Kumar Aggarwal . 1 hour 44 minutes 14 seconds
+Hmm.
+Harish Kumar Aggarwal . 1 hour 44 minutes 35 seconds
+Where do I want to insert the data left or right? I don't know.
+Harish Kumar Aggarwal . 1 hour 44 minutes 44 seconds
+I'll look into this code whether it's basically how it's inferting and deleting.
+Harish Kumar Aggarwal . 1 hour 44 minutes 51 seconds
+So I just picked up this code from the Internet. I did not even look at it. You can.
+Harish Kumar Aggarwal . 1 hour 44 minutes 57 seconds
+So in order traversal.
+Harish Kumar Aggarwal . 1 hour 45 minutes 4 seconds
+If you are not a rude.
+Harish Kumar Aggarwal . 1 hour 45 minutes 7 seconds
+Left yourself right preorder.
+Harish Kumar Aggarwal . 1 hour 45 minutes 12 seconds
+Yourself left, right, post order left, right.
+Harish Kumar Aggarwal . 1 hour 45 minutes 18 seconds
+Myself.
+Harish Kumar Aggarwal . 1 hour 45 minutes 21 seconds
+Level order, basically in the same level, all of them. Now I need to understand why he's creating a queue. What is the need of having a queue?
+Harish Kumar Aggarwal . 1 hour 45 minutes 35 seconds
+Why is it having a queue is the question mark. I'll go through this and maybe take up this in the next lecture, right?
+Harish Kumar Aggarwal . 1 hour 45 minutes 43 seconds
+OK. Any questions or else I'm pretty much done for the day?
+Harish Kumar Aggarwal . 1 hour 45 minutes 52 seconds
+Any questions?
+Harish Kumar Aggarwal . 1 hour 45 minutes 58 seconds
+Nope. OK, it was a small lecture today, but I will have the quiz after lecture five or six and I will give an assignment after lecture five or six, right? I'll declare the date and.
+Harish Kumar Aggarwal . 1 hour 46 minutes 17 seconds
+There is one lecture I'm basically we are lagging and I will cover that up in the buffer session. Thank you for joining. I know it is tough over the weekend, but it's definitely going to help you guys. Thanks. Bye.
+Harish Kumar Aggarwal . 1 hour 46 minutes 34 seconds
+Thank you.
