@@ -1,0 +1,125 @@
+Hello.
+Harish Kumar Aggarwal . 0 minutes 24 seconds
+Can you go over here to me?
+Harish Kumar Aggarwal . 0 minutes 27 seconds
+Good afternoon.
+Harish Kumar Aggarwal . 0 minutes 31 seconds
+Can anybody respond?
+Harish Kumar Aggarwal . 0 minutes 40 seconds
+You all are unmuted. Can somebody speak?
+Harish Kumar Aggarwal . 0 minutes 48 seconds
+I want to hear somebody's voice. Hello.
+Harish Kumar Aggarwal . 0 minutes 58 seconds
+OK.
+Harish Kumar Aggarwal . 1 minute 5 seconds
+Audible. Fine. So let me bring up my slide.
+Harish Kumar Aggarwal . 1 minute 25 seconds
+Can you go through my screen?
+Harish Kumar Aggarwal . 1 minute 40 seconds
+Hello.
+Harish Kumar Aggarwal . 1 hour 50 minutes 35 seconds
+But we did lift.
+Harish Kumar Aggarwal . 1 hour 50 minutes 39 seconds
+Stack Q.
+Harish Kumar Aggarwal . 1 hour 50 minutes 43 seconds
+The operations that we do on top of these if can be fed up ADT or abstract data type which are operations.
+Harish Kumar Aggarwal . 1 hour 50 minutes 54 seconds
+End.
+Harish Kumar Aggarwal . 1 hour 50 minutes 56 seconds
+These operations can be implemented.
+Harish Kumar Aggarwal . 1 hour 51 minutes 3 seconds
+It is hidden from the user.
+Harish Kumar Aggarwal . 1 hour 51 minutes 6 seconds
+And these can be implemented in the form of.
+Harish Kumar Aggarwal . 1 hour 51 minutes 11 seconds
+Array implementation.
+Harish Kumar Aggarwal . 1 hour 51 minutes 16 seconds
+And lintlift imlementation.
+Harish Kumar Aggarwal . 1 hour 51 minutes 27 seconds
+Right. In addition to this, what we did was on a doubly linked list.
+Harish Kumar Aggarwal . 1 hour 51 minutes 31 seconds
+5.
+Harish Kumar Aggarwal . 1 hour 51 minutes 36 seconds
+We covered operations like addition of a node and removal of a node or deletion of a node and another thing that we did were on stack.
+Harish Kumar Aggarwal . 1 hour 51 minutes 50 seconds
+Evaluation of post book.
+Harish Kumar Aggarwal . 1 hour 51 minutes 56 seconds
+Of post fix operation and the one which I did not do is in fix to post fix.
+Harish Kumar Aggarwal . 1 hour 52 minutes 9 seconds
+This I have not done right? Let me see if at all I can quickly do it.
+Harish Kumar Aggarwal . 1 hour 52 minutes 41 seconds
+You start with opening bracket.
+Harish Kumar Aggarwal . 1 hour 52 minutes 47 seconds
+Push element.
+Harish Kumar Aggarwal . 1 hour 52 minutes 51 seconds
+On post fix screen thing.
+Harish Kumar Aggarwal . 1 hour 52 minutes 54 seconds
+When you enter the symbol, you push it onto the stack.
+Harish Kumar Aggarwal . 1 hour 53 minutes
+When you encounter operator, you push it onto the postfix string.
+Harish Kumar Aggarwal . 1 hour 53 minutes 7 seconds
+When you encounter a uh operator, push it onto the stack.
+Harish Kumar Aggarwal . 1 hour 53 minutes 16 seconds
+You get a operand, push it onto the string.
+Harish Kumar Aggarwal . 1 hour 53 minutes 26 seconds
+Once you do, then you get a closing bracket. Once you get a closing bracket, you basically.
+Harish Kumar Aggarwal . 1 hour 53 minutes 35 seconds
+Start popping out star go over here, then plus go over here and you get final closing. It is empty. So basically it is nothing but.
+Harish Kumar Aggarwal . 1 hour 53 minutes 48 seconds
+As simple as that if you get operator operand.
+Harish Kumar Aggarwal . 1 hour 53 minutes 56 seconds
+It goes into the.
+Harish Kumar Aggarwal . 1 hour 53 minutes 58 seconds
+Postfix string. If you get operator it goes onto the stack till the time you get a closing bracket. The time you get closing bracket you basically.
+Harish Kumar Aggarwal . 1 hour 54 minutes 12 seconds
+Move all the operators corresponding to that closing bracket onto this. Now this actually can be as complicated as this.
+Harish Kumar Aggarwal . 1 hour 54 minutes 30 seconds
+2.
+Harish Kumar Aggarwal . 1 hour 54 minutes 32 seconds
+In two.
+Harish Kumar Aggarwal . 1 hour 54 minutes 36 seconds
+3.
+Harish Kumar Aggarwal . 1 hour 54 minutes 38 seconds
+Plus.
+Harish Kumar Aggarwal . 1 hour 54 minutes 42 seconds
+No 2 plus.
+Harish Kumar Aggarwal . 1 hour 54 minutes 47 seconds
+3 + 5 + 6.
+Harish Kumar Aggarwal . 1 hour 54 minutes 54 seconds
+Plus 9. In this case, these up brackets will also come in picture, so you have to add this bracket in the end which starts with this one, but you.
+Harish Kumar Aggarwal . 1 hour 55 minutes 11 seconds
+When you these will be pushed onto the stack. When you encounter the closing bracket, only those operands which are there till the opening bracket will be going to the output string and then you start.
+Harish Kumar Aggarwal . 1 hour 55 minutes 26 seconds
+Doing things again, right? So that needs to be taken care of. That's the only thing. Otherwise it's very simple algorithm. Clear guys. Lift stack queue.
+Harish Kumar Aggarwal . 1 hour 55 minutes 44 seconds
+I hope all this is clear.
+Harish Kumar Aggarwal . 1 hour 55 minutes 52 seconds
+Fine. Any question?
+Harish Kumar Aggarwal . 1 hour 55 minutes 55 seconds
+356 you still got like 4 minutes for any questions. I'm pretty much done.
+Harish Kumar Aggarwal . 1 hour 56 minutes 11 seconds
+Hello.
+Harish Kumar Aggarwal . 1 hour 56 minutes 22 seconds
+Lift stack queue ADT implementation.
+Harish Kumar Aggarwal . 1 hour 56 minutes 27 seconds
+Examples for stack infix to postfix, evaluating postfix and insertion and deletion of a node in doubly linked list. This is what we have done.
+Harish Kumar Aggarwal . 1 hour 56 minutes 42 seconds
+And actually insertion and deletion could be there on the singly linked list as well.
+Harish Kumar Aggarwal . 1 hour 56 minutes 55 seconds
+No questions.
+Harish Kumar Aggarwal . 1 hour 56 minutes 58 seconds
+Hello.
+Harish Kumar Aggarwal . 1 hour 57 minutes
+No questions.
+Harish Kumar Aggarwal . 1 hour 57 minutes 5 seconds
+If that is the case.
+Harish Kumar Aggarwal . 1 hour 57 minutes 8 seconds
+I'm done for the day. Thank you for joining. I know it is tough on the weekends. You all are working professionals, so it's pretty tough to join the classes. But then this is what you people ask for and it is definitely going to help you in your career.
+Harish Kumar Aggarwal . 1 hour 57 minutes 27 seconds
+It is really, really good. No, Sir, it is about the question or it is not going to help you.
+Harish Kumar Aggarwal . 1 hour 57 minutes 36 seconds
+Preeti, what is this no sir for?
+Harish Kumar Aggarwal . 1 hour 57 minutes 47 seconds
+OK. Thank you very much. Thanks. Bye.
+Harish Kumar Aggarwal . 1 hour 57 minutes 54 seconds
+Thank you.
