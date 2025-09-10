@@ -1,0 +1,153 @@
+Hello, good afternoon. Can you guys hear me?
+Harish Kumar Aggarwal . 0 minutes 27 seconds
+Somebody please respond.
+Harish Kumar Aggarwal . 0 minutes 34 seconds
+Hello.
+BS
+
+BALINENI BHAVYA SRI
+0 minutes 40 seconds0:40
+BALINENI BHAVYA SRI 0 minutes 40 seconds
+Hello Sir, good afternoon. We can hear you.
+HA
+
+Harish Kumar Aggarwal .
+0 minutes 41 seconds0:41
+Harish Kumar Aggarwal . 0 minutes 41 seconds
+OK, OK, fine. Thank you. OK, so
+DA
+
+DARREN CHRISTOPHER ANTONY
+0 minutes 49 seconds0:49
+DARREN CHRISTOPHER ANTONY 0 minutes 49 seconds
+Each lane is assigned one four bit of ID number. All the devices are connected using 5 lanes. For arbitration, transfer the ID.
+HA
+
+Harish Kumar Aggarwal .
+0 minutes 58 seconds0:58
+Harish Kumar Aggarwal . 0 minutes 58 seconds
+Yeah, what is this?
+Harish Kumar Aggarwal . 1 minute 1 second
+Hello.
+Harish Kumar Aggarwal . 1 minute 3 seconds
+Hello.
+Harish Kumar Aggarwal . 1 minute 7 seconds
+There is another meeting going on or what?
+Harish Kumar Aggarwal . 1 hour 47 minutes 45 seconds
+Disadvantage search is no longer dependent on alpha, hence chaining is more common when keys have to be deleted.
+Harish Kumar Aggarwal . 1 hour 47 minutes 56 seconds
+Because if you in case of deletion, though the element is over not there, still it is treated like as though it is there because search is treating deleted as the key still holds the value.
+Harish Kumar Aggarwal . 1 hour 48 minutes 13 seconds
+Clear guys. These parts should be clear to you.
+Harish Kumar Aggarwal . 1 hour 48 minutes 19 seconds
+So again I'm repeating. In case of A. delete operation, you don't make the value nil, you change it to deleted. Search will treat deleted as though it holds the value. Insert will treat deleted as though it.
+Harish Kumar Aggarwal . 1 hour 48 minutes 33 seconds
+For empty disadvantages in case of search because you're treating this deleted as it holds the value. So you're basically continuing with this whole thing, but no longer depends on alpha, hence chaining is more common when.
+Harish Kumar Aggarwal . 1 hour 48 minutes 49 seconds
+Keys have to be deleted more often.
+Harish Kumar Aggarwal . 1 hour 48 minutes 53 seconds
+Pro sequence I already talked about 1 to 9. We basically how we are going to look into it and we have 3 commonly used techniques linear probing, quadratic probing, double hashing. I explained you all these three linear probing the.
+Harish Kumar Aggarwal . 1 hour 49 minutes 9 seconds
+This is the formula that we are going to have.
+Harish Kumar Aggarwal . 1 hour 49 minutes 16 seconds
+And it suffers from primary clustering. I have already explained you this to you.
+Harish Kumar Aggarwal . 1 hour 49 minutes 26 seconds
+OK, what is the half only M distinct growth sequence where possible? Fine already explained.
+Harish Kumar Aggarwal . 1 hour 49 minutes 32 seconds
+Quadratic probing you will have A. formula something like this where C1 and C2 are some constants and I and I square will give you the probe sequence will come from the probe sequence.
+Harish Kumar Aggarwal . 1 hour 49 minutes 47 seconds
+This can suffer from secondary clustering, right?
+Harish Kumar Aggarwal . 1 hour 49 minutes 54 seconds
+If the two keys have the same initial proposition, then their prop sequences are the same.
+Harish Kumar Aggarwal . 1 hour 50 minutes 3 seconds
+Double hashing already explained to you with two hash function. This I value will come from probe sequence. I is the probe number of course.
+Harish Kumar Aggarwal . 1 hour 50 minutes 20 seconds
+close to ideal uniform hashing. So this is A. good way of doing hashing. Best method available for open addressing.
+Harish Kumar Aggarwal . 1 hour 50 minutes 31 seconds
+Already explained the performance I you can ignore. Basically your performance is order of one time. Simple. Just leave the calculation and all fine.
+Harish Kumar Aggarwal . 1 hour 50 minutes 44 seconds
+OK.
+Harish Kumar Aggarwal . 1 hour 50 minutes 47 seconds
+I hope you're able to understand hashing, why we do hashing, how we do hashing, what is chaining? What is collision? What is probe sequence? What is? How do we do search, delete, insert operation in hashing?
+Harish Kumar Aggarwal . 1 hour 51 minutes 8 seconds
+Right. And what is open addressing? What is chaining? And within open addressing we have linear, quadratic and double hash, double hash.
+Harish Kumar Aggarwal . 1 hour 51 minutes 21 seconds
+Clear guys.
+Harish Kumar Aggarwal . 1 hour 51 minutes 25 seconds
+Hello.
+Harish Kumar Aggarwal . 1 hour 51 minutes 32 seconds
+Anybody.
+Harish Kumar Aggarwal . 1 hour 51 minutes 44 seconds
+Any questions?
+Harish Kumar Aggarwal . 1 hour 52 minutes 5 seconds
+Let me see if I have missed anything.
+Harish Kumar Aggarwal . 1 hour 52 minutes 10 seconds
+A lot of ground.
+Harish Kumar Aggarwal . 1 hour 52 minutes 14 seconds
+OK, so basically.
+Harish Kumar Aggarwal . 1 hour 52 minutes 20 seconds
+Direct index to key.
+Harish Kumar Aggarwal . 1 hour 52 minutes 24 seconds
+Index to key life is easy but lot of space wasted.
+Harish Kumar Aggarwal . 1 hour 52 minutes 35 seconds
+Index to key. If at all the key is having a large value, then there are possible.
+Harish Kumar Aggarwal . 1 hour 52 minutes 44 seconds
+If there is no collision, life is good.
+Harish Kumar Aggarwal . 1 hour 52 minutes 47 seconds
+If there is a collision, we have to figure out a way to take care of the collision.
+Harish Kumar Aggarwal . 1 hour 52 minutes 59 seconds
+Chaining.
+Harish Kumar Aggarwal . 1 hour 53 minutes 13 seconds
+Direct addressing.
+Harish Kumar Aggarwal . 1 hour 53 minutes 19 seconds
+Add delete search order of one.
+Harish Kumar Aggarwal . 1 hour 53 minutes 29 seconds
+Direct address table is basically one instrument mapping key to index.
+Harish Kumar Aggarwal . 1 hour 53 minutes 41 seconds
+This means that U is the key from universal set. When applied a hash table, this is the value we are going to get the index value.
+Harish Kumar Aggarwal . 1 hour 53 minutes 53 seconds
+We say that HK is the hash value of K.
+Harish Kumar Aggarwal . 1 hour 53 minutes 58 seconds
+K is from the universal set and HK gives the index value.
+Harish Kumar Aggarwal . 1 hour 54 minutes 7 seconds
+A good hash function will have.
+Harish Kumar Aggarwal . 1 hour 54 minutes 12 seconds
+M.
+Harish Kumar Aggarwal . 1 hour 54 minutes 14 seconds
+Which is a prime not close to power of two, just a general statement.
+Harish Kumar Aggarwal . 1 hour 54 minutes 22 seconds
+Your hash function can be in the form of AK plus B mod N where K is the value of key and A&B are two constants and mod N where N is the size of the index.
+Harish Kumar Aggarwal . 1 hour 54 minutes 38 seconds
+Where I knew a prime number and A&B are.
+Harish Kumar Aggarwal . 1 hour 54 minutes 45 seconds
+Two keys map keys may hash to the same slot, which is called as collision, avoiding collision.
+Harish Kumar Aggarwal . 1 hour 54 minutes 54 seconds
+Ideal situation if there is no collision, but if at all collision occur, we have to solve.
+Harish Kumar Aggarwal . 1 hour 55 minutes 1 second
+Collision. One of the method is chaining.
+Harish Kumar Aggarwal . 1 hour 55 minutes 7 seconds
+Create a link list at each slot value. Load factor is given by M where N of the total number of elements. M is the size of the hash value.
+Harish Kumar Aggarwal . 1 hour 55 minutes 25 seconds
+Purchase one plus alpha.
+Harish Kumar Aggarwal . 1 hour 55 minutes 33 seconds
+If N is almost equal to M, order of one is the search.
+Harish Kumar Aggarwal . 1 hour 55 minutes 38 seconds
+Open addressing already explained this part I've explained. This is the important thing you need to understand in hashing. People miss out on this part.
+Harish Kumar Aggarwal . 1 hour 55 minutes 52 seconds
+In interview, people will only grill you on this part.
+Harish Kumar Aggarwal . 1 hour 56 minutes
+Row sequence.
+Harish Kumar Aggarwal . 1 hour 56 minutes 4 seconds
+Linear robbing.
+Harish Kumar Aggarwal . 1 hour 56 minutes 9 seconds
+Quadratic probing and double hash.
+Harish Kumar Aggarwal . 1 hour 56 minutes 18 seconds
+OK, I think I've already explained all of it.
+Harish Kumar Aggarwal . 1 hour 56 minutes 23 seconds
+This is all that I have for today. If you have any questions, good or else.
+Harish Kumar Aggarwal . 1 hour 56 minutes 31 seconds
+I will close the session. I know you people are working professional. It is very tough joining the class over the weekend, but it is definitely going to help you. We will be learning a lot from this.
+Harish Kumar Aggarwal . 1 hour 56 minutes 47 seconds
+Thank you very much. Thanks.
+Harish Kumar Aggarwal . 1 hour 56 minutes 51 seconds
+Bye.
